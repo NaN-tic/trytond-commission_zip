@@ -1,0 +1,67 @@
+#
+msgid ""
+msgstr "Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "field:agent.zip.code,agent:"
+msgid "Agent"
+msgstr "Agent"
+
+msgctxt "field:agent.zip.code,create_date:"
+msgid "Create Date"
+msgstr "Fecha creación"
+
+msgctxt "field:agent.zip.code,create_uid:"
+msgid "Create User"
+msgstr "Usuari creació"
+
+msgctxt "field:agent.zip.code,id:"
+msgid "ID"
+msgstr "ID"
+
+msgctxt "field:agent.zip.code,rec_name:"
+msgid "Name"
+msgstr "Nom del camp"
+
+msgctxt "field:agent.zip.code,sequence:"
+msgid "Sequence"
+msgstr "Seqüència"
+
+msgctxt "field:agent.zip.code,write_date:"
+msgid "Write Date"
+msgstr "Usuari creació"
+
+msgctxt "field:agent.zip.code,write_uid:"
+msgid "Write User"
+msgstr "Usuari modificació"
+
+msgctxt "field:agent.zip.code,zip_code:"
+msgid "Zip Code"
+msgstr "Codi postal"
+
+msgctxt "field:commission.agent,zip_codes:"
+msgid "Zip Codes"
+msgstr "Codis postals"
+
+msgctxt "model:agent.zip.code,name:"
+msgid "Agent Zip Code"
+msgstr "Codi postal d'agent"
+
+msgctxt "model:ir.action,name:act_agent_zip_code_form"
+msgid "Agent Zip Codes"
+msgstr "Codis postals d'agent"
+
+msgctxt "model:ir.ui.menu,name:menu_plan_form"
+msgid "Agent Zip Codes"
+msgstr "Codis postals d'agent"
+
+msgctxt "view:agent.zip.code:"
+msgid "Agent Zip Code"
+msgstr "Codi postal d'agent"
+
+msgctxt "view:agent.zip.code:"
+msgid "Agent Zip Codes"
+msgstr "Codis postals d'agent"
+
+msgctxt "view:res.user:"
+msgid "Agents"
+msgstr "Agents"

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<!-- This file is part of the commission_zip module for Tryton.
+The COPYRIGHT file at the top level of this repository contains the full
+copyright notices and license terms. -->
+<form string="Agent Zip Code">
+    <label name="sequence"/>
+    <field name="sequence"/>
+    <label name="agent"/>
+    <field name="agent"/>
+    <label name="zip_code"/>
+    <field name="zip_code"/>
+</form>
