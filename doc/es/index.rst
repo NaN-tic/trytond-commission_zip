@@ -17,3 +17,11 @@ dígitos que identifican la provincia.
 Códigos postales de agente), de forma que se priorice los códigos postales
 concretos (de localidad) y queden para el final los códigos postales genéricos
 (de provincia).
+
+Ejemplo
+=======
+
+28 - 1 - Agent 4 #  Madrid (província)
+08720 - 1 - Agent 1 # Vilafranca del Penedès (ciudad)
+087 - 2 - Agent 2 # Alt Penedès (comarca)
+08 - 3 - Agent 3 # Barcelona (província)
