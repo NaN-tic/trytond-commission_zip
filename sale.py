@@ -9,10 +9,10 @@ from sql.operators import Like
 
 
 __all__ = ['Sale']
-__metaclass__ = PoolMeta
 
 
 class Sale:
+    __metaclass__ = PoolMeta
     __name__ = 'sale.sale'
 
     @fields.depends('party', 'shipment_address')

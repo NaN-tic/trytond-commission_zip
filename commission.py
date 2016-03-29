@@ -6,7 +6,6 @@ from trytond.pool import PoolMeta
 
 
 __all__ = ['AgentZipCode', 'Agent']
-__metaclass__ = PoolMeta
 
 
 class AgentZipCode(ModelSQL, ModelView):
@@ -25,5 +24,6 @@ class AgentZipCode(ModelSQL, ModelView):
 
 
 class Agent:
+    __metaclass__ = PoolMeta
     __name__ = 'commission.agent'
     zip_codes = fields.One2Many('agent.zip.code', 'agent', 'Zip Codes')
